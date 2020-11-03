@@ -1,0 +1,91 @@
+[
+  {
+    "question": "Which of the following is NOT a step involved in the Agile version of model-driven development (AMDD)?",
+    "option1": "Identify the high level scope",
+    "option2": "Identify an architectural vision",
+    "option3": "Identify the low level scope",
+    "option4": "Identify initial requirements stack",
+    "answer": "Identify the low level scope"
+  },
+
+  {
+    "question": "Which one of these characters is not friends with Harry Potter?",
+    "option1": "Ron Weasley",
+    "option2": "Neville Longbottom",
+    "option3": "Draco Malfoy",
+    "option4": "Hermione Granger",
+    "answer": "Draco Malfoy"
+  },
+
+  {
+    "question": "Which animal does not appear in the Chinese zodiac?",
+    "option1": "Dragon",
+    "option2": "Rabbit",
+    "option3": "Dog",
+    "option4": "Hummingbird",
+    "answer": "Hummingbird"
+  },
+
+  {
+    "question": "Which is the only mammal that can’t jump?",
+    "option1": "Dog",
+    "option2": "Elephant",
+    "option3": "Goat",
+    "option4": "Lion",
+    "answer": "Elephant"
+  },
+
+  {
+    "question": "In Pirates of the Caribbean, what was the name of Captain Jack Sparrow’s ship?",
+    "option1": "The Marauder",
+    "option2": "The Black Pearl",
+    "option3": "The Black Python",
+    "option4": "The Slytherin",
+    "answer": "The Black Pearl"
+  },
+
+  {
+    "question": "Fe is the chemical symbol for…",
+    "option1": "Zinc",
+    "option2": "Hydrogen",
+    "option3": "Fluorine",
+    "option4": "Iron",
+    "answer": "Iron"
+  },
+
+  {
+    "question": "Which planet in our solar system is the largest?",
+    "option1": "Jupiter",
+    "option2": "Saturn",
+    "option3": "Neptune",
+    "option4": "Earth",
+    "answer": "Jupiter"
+  },
+
+  {
+    "question": "What does the roman numeral X represent?",
+    "option1": "100",
+    "option2": "10",
+    "option3": "10,000",
+    "option4": "1,000,000",
+    "answer": "10"
+  },
+
+  {
+    "question": "Which country gifted the Statue of Liberty to the U.S.?",
+    "option1": "Germany",
+    "option2": "China",
+    "option3": "France",
+    "option4": "Italy",
+    "answer": "France"
+  },
+
+  {
+    "question": "Who painted the Mona Lisa?",
+    "option1": "Alexander Graham Bell",
+    "option2": "Sir Isaac Newton",
+    "option3": "Leonardo Da Vinci",
+    "option4": "Albert Einstein",
+    "answer": "Leonardo Da Vinci"
+  }
+]
